@@ -1,6 +1,10 @@
 #vscode settings
 .vscode
 
+#playtool settings
+playtool
+*/playtool/*
+
 # build file
 build
 */build/*
